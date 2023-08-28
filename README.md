@@ -10,8 +10,8 @@
 
 Vurderingskriterier:
 
-Opprettelse av GitHub-konto og opprettelse av et delt repositorium.
-Bruk av "Branches" for individuelt arbeid.
-Riktig bruk av "Git"-kommandoer for å utføre oppgaven.
-Kvaliteten på "Pull Request"-meldingen og beskrivelsen av samarbeidsprosessen.
-Presentasjonen av det ferdige repositoriet og samarbeidsprosessen.
+* Opprettelse av GitHub-konto og opprettelse av et delt repositorium.
+* Bruk av "Branches" for individuelt arbeid.
+* Riktig bruk av "Git"-kommandoer for å utføre oppgaven.
+* Kvaliteten på "Pull Request"-meldingen og beskrivelsen av samarbeidsprosessen.
+* Presentasjonen av det ferdige repositoriet og samarbeidsprosessen.
